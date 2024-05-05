@@ -257,6 +257,7 @@ public class editorPrincipal extends javax.swing.JFrame {
         tablemodel.borrarUsuario(conexion);
     }
 
+    
 
     /**
      * @param args the command line arguments
