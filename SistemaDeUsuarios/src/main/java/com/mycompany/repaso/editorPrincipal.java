@@ -30,6 +30,7 @@ public class editorPrincipal extends javax.swing.JFrame {
         actualizarTabla();
         // ! Esto es un ejemplo de cambio para fetch
         // ? Esto es un ejemplo de cambio para push
+        // * Esto es un ejemplo de cambio para rebase desde git
     }
 
     /**
