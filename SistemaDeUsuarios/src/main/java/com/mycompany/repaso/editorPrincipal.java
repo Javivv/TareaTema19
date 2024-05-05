@@ -31,6 +31,8 @@ public class editorPrincipal extends javax.swing.JFrame {
         // ! Esto es un ejemplo de cambio para fetch
         // ? Esto es un ejemplo de cambio para push
         // * Esto es un ejemplo de cambio para rebase desde git
+
+        // * Esto es un ejemplo de rebase desde VSCode
     }
 
     /**
