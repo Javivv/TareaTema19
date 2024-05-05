@@ -29,6 +29,7 @@ public class editorPrincipal extends javax.swing.JFrame {
         initComponents();
         actualizarTabla();
         // ! Esto es un ejemplo de cambio para fetch
+        // ? Esto es un ejemplo de cambio para push
     }
 
     /**
